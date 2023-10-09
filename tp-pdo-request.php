@@ -1,4 +1,13 @@
 <?php
+# Créez la connexion à la base de
+# données en utilisant les informations suivantes :
+# ---
+# hostname : "goldrushmc.fun"
+# username : "u3_xzotSAUmU0"
+# database : "s3_demo"
+# password : "x!Wk6u@bIunTJV^FfBseDZXu"
+# ---
+
 
 
 # Créez une table nommée "users_" suivi de votre pseudo ou de votre nom.
